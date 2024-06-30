@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adamezzoubaa
 - 👀 I’m interested in Space , coding , art
-- 🌱 I’m currently learning Js , Dart and Flutter
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
